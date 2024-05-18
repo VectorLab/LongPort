@@ -11,6 +11,10 @@
           <NuxtLink to="/quote">Stock Quote</NuxtLink>
           <span> ：使用长桥的API查询美国或者香港股票</span>
         </li>
+        <li>
+          <NuxtLink to="/watch">Watch List</NuxtLink>
+          <span> ：查询长桥的自选关注列表</span>
+        </li>
       </ul>
     </nav>
     <NuxtPage />
